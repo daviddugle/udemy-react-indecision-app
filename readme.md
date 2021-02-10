@@ -35,7 +35,6 @@
 
 * [Photos](#Photos)
 
-* [Video](#Video)
 
 
 
@@ -62,21 +61,25 @@ I am taking a udemy course on React and wanted to make sure I was saving my info
 
 ## Installation Instructions
 
-not yet ready
+install your npm and npm run dev-server
 
 
 
 
 ## Technologies Used
 
-* list your technologies used in the app
+* react
+* babel
+* css-loader
+* node-css
+
 
 
 
 
 ## Usage
 
-not yet ready
+install your npm and npm run dev-server
 
 
 
@@ -114,16 +117,9 @@ not yet ready
 
 ## Photos
 
-![DeployedPhoto]()
-
-place your photo in the parentheses
+![DeployedPhoto](https://github.com/daviddugle/udemy-react-indecision-app/blob/main/public/images/example.gif?raw=true)
 
 
 
 
-## Video
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
