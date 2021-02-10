@@ -54,6 +54,12 @@
 ## Description
 
 I am taking a udemy course on React and wanted to make sure I was saving my information.
+ 
+
+If you are interested in the course, <a href='https://www.udemy.com/course/react-2nd-edition/' target='_blank'>you can find it here</a>
+
+
+
 
 
 
