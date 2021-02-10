@@ -111,7 +111,7 @@ Email:
 
 ## Tests
 
-not yet ready
+install your npm and npm run dev-server
 
 
 
